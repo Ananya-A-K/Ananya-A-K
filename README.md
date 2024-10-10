@@ -5,7 +5,7 @@
 - 📫 How to reach me: ananya.231cs208@nitk.edu.in
 - 👋🏽 Connect with me: Linkedin- https://in.linkedin.com/in/ananya-a-k-284020290
 - 😄 Pronouns: She/her
-- 🛠️ Languages and tools: C, CPP, Python, HTML
+- 🛠️ Languages and tools: C, CPP, Python, HTML, CSS, JS
 
 <!---
 Ananya-A-K/Ananya-A-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
