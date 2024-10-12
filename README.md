@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya-A-K
-- 👀 I’m interested in Cybersecurity(Just learnin..)
+- 👀 I’m interested in Cybersecurity(exploring stuff..)
 - 🌱 I’m currently learning DSA and cybersecurity stuff...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ananya.231cs208@nitk.edu.in
